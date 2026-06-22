@@ -114,7 +114,7 @@ body.dark .navbar{
     align-items:center;
     text-align:center;
 
-    background-image:url("images/images.jpg");
+    background-image:url("images.jpg");
     background-size:cover;
     background-position:center;
 
@@ -159,13 +159,13 @@ body.dark .navbar{
 
     transition:.3s;
 }
-/* Micro Interaction */
+
 
 .cta-btn:hover{
     transform:scale(1.08);
 }
 
-/* Services */
+
 
 .services{
     padding:80px 8%;
